@@ -13,7 +13,7 @@ public class GreetingsController {
 
     @GetMapping("oracle")
     public String printGreetings() {
-        return "Hi Oracle !!";
+        return "Hi Oracle !!!";
     }
 
 }
