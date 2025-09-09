@@ -16,5 +16,4 @@ public class GreetingsController {
         return "Hi Oracle !!";
     }
 
-
 }
